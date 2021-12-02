@@ -7,7 +7,7 @@ const __dirname = dirname(__filename);
 
 const template = {
   template: resolve(__dirname, 'src/index.html'),
-  title: 'Game DB',
+  title: 'Photo App',
   favicon: resolve(__dirname, 'src/favicon.ico'),
 };
 
